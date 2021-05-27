@@ -1,6 +1,10 @@
-let myEvent = document.querySelector('button');
+let button = document.querySelector('button');
 
-console.log(myEvent);
+console.log(button);
+
+
+
+
 
 
 
