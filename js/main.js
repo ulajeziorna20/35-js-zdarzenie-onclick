@@ -1,10 +1,10 @@
-let button = document.querySelector('button');
+let myEvent = document.querySelector('button');
 
-button.onclick = function() {
-    alert("Kilknąłeś tekst button");
-}
+console.log(myEvent);
 
-console.log(button);
+
+
+
 
 
 
